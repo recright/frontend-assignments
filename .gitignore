@@ -1,0 +1,11 @@
+.*
+!.gitignore
+
+node_modules
+
+react-frontend-assignment-model/node_modules
+react-frontend-assignment-model/.gitignore
+static-frontend-assignment-model/.gitignore
+/react-frontend-assignment-model/node_modules
+/react-frontend-assignment-model/.gitignore
+/static-frontend-assignment-model/.gitignore

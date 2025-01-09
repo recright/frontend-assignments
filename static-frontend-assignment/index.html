@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>assignment</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <!--NAV-->
+    <div class="navbar">
+      <div class="container">
+        <div class="navbarGrid">
+          <h1>Frontend assignment</h1>
+          <nav class="desktopMenu">
+            <ul>
+              <li>
+                <a href="#">About</a>
+              </li>
+              <li>
+                <a href="#">Product</a>
+              </li>
+              <li>
+                <a href="#">Careers</a>
+              </li>
+              <li>
+                <a href="#">Contact</a>
+              </li>
+            </ul>
+          </nav>
+          <div class="mobileMenuIcon" id="navToggle">
+            <!--MOBILE MENU ICON-->
+            <i class="fa fa-bars openIcon"></i>
+            <i class="fa fa-times closeIcon"></i>
+          </div>
+
+          <nav class="mobileMenu">
+            <ul>
+              <li>
+                <a href="#">About</a>
+              </li>
+              <li>
+                <a href="#">Product</a>
+              </li>
+              <li>
+                <a href="#">Careers</a>
+              </li>
+              <li>
+                <a href="#">Contact</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <!--HERO-->
+    <div class="hero">
+      <div class="container">
+        <div class="heroGrid">
+          <div class="heroText">
+            <div>
+              <h2>Hero area title</h2>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
+                auctor turpis in volutpat rhoncus. Nulla ut libero felis. Donec
+                aliquam nisi vitae risus sagittis, sit amet porttitor magna
+                gravida. In quis interdum lacus. Proin scelerisque tellus
+                lectus, in vestibulum leo semper id. Sed ullamcorper tincidunt
+                tincidunt. Interdum et malesuada fames ac ante ipsum primis in
+                faucibus. Praesent vitae orci sit amet mauris blandit euismod.
+                Donec dictum vitae massa ut euismod.
+              </p>
+              <button>Just a button</button>
+            </div>
+          </div>
+          <div class="heroImage">
+            <img src="hero_img.png" alt="hero" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Add POSTS here using JavaScript -->
+    <div class="container">
+      <ul class="postsGrid">
+
+      </ul>
+    </div>
+
+    <!--FORM-->
+    <div class="container">
+      <div class="formWrapper">
+        <div class="form">
+          <form id="form">
+            <div class="field">
+              <label>First Name</label>
+              <input id="firstName" type="text" name="firstName" />
+            </div>
+            <div class="field">
+              <label>Last Name</label>
+              <input id="lastName" type="text" name="lastName" />
+            </div>
+            <div class="field">
+              <label>Email</label>
+              <input id="email" type="email" name="email" />
+            </div>
+            <div class="field">
+              <button id="submit">Submit form</button>
+            </div>
+          </form>
+
+          <div class="thankYou">
+            <h3>Thank you for submitting the form <span id="firstNameDisplay"></span>!</h3>
+            <p>
+              We have received your submission and will get back to you shortly.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--FOOTER-->
+    <div class="footer">
+      <div class="container">
+        <p>© 2025 Your Name here</p>
+      </div>
+    </div>
+  </body>
+</html>

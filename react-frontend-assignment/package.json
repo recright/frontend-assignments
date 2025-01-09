@@ -1,0 +1,23 @@
+{
+  "name": "frontend-trainee-task",
+  "version": "1.0.0",
+  "private": true,
+  "description": "frontend-trainee-task",
+  "author": "Your name here",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.14.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.4.0"
+  }
+}

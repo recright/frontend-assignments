@@ -1,0 +1,35 @@
+/* Write your styles here */
+
+/* 
+Colors
+- Rose: #F9D6D2
+- Red: #D63D3F 
+- Black: #000000
+- White: #FFFFFF
+*/
+
+/* Global styles */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  width: calc(100% - 40px);
+  max-width: 1224px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: block;
+}
+
+/* Navbar styles */
+
+/* Hero styles */
+
+/* Posts styles */
+
+/* Form styles */
+
+/* Footer styles */
