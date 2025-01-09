@@ -1,12 +1,8 @@
-# Model answers for Recruitment assignments
+# Coding assignment
 
-This repository includes the ready made model answers and instructions for the recruitment assignments for the following positions:
-- Frontend Developer / Junior developer / Frontend dev trainee
+There are two assignment options you can choose from. Both will produce the same simple web page and it will test you can write CSS and understand basics of HTTP and JavaScript. Assignment will also test your visual eye. Both options are evaluated equally, so pick the one that you feel more confident with.
 
-This repository should be private and not shared with the applicants.
+Option 1. You can do the page in assignment using static HTML, CSS and vanilla JavaScript. HTML is provided ready with the assignment.
 
-## How to use
-- Create a copy of the projects inside this repo and where you have removed parts of the code that you want the applicant to complete
-- Make a public repositories from those repositories and share the links with the applicants.
-- Write instructions here
+Option 2. If you happen to know some React and want to use it there is ready made setup you can use and make the page using that. JSX is provided ready with the assignment.
 
