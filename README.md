@@ -6,3 +6,4 @@ Option 1. You can do the page in assignment using static HTML, CSS and vanilla J
 
 Option 2. If you happen to know some React and want to use it there is ready made setup you can use and make the page using that. JSX is provided ready with the assignment.
 
+Instructions are in readme file under the each folder.
