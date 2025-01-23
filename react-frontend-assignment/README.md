@@ -9,6 +9,7 @@ The assignment is to create a simple web page with React. All neccessary files a
 - Page should look same as in the provided layout pictures (desktop and mobile).
 - List of posts should be fetched from a provided REST API endpoint and displayed on the page.
 - When form is submitted it should console.log form data, hide the form and show a thank you message.
+- Mobile navigation toggle should work (open and close the navigation when in mobile device)
 
 ## Layout pictures
 
